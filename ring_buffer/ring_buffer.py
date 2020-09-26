@@ -1,5 +1,5 @@
 class RingBuffer:
-    def __init__(self, capacity):
+    def __init__(self, capacity=None):
         self.capacity = capacity
         self.size = 0
         self.storage = []
@@ -18,3 +18,6 @@ class RingBuffer:
             return []
         else:
             return self.storage
+
+
+print("abc" > "b")
