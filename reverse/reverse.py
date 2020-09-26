@@ -54,3 +54,9 @@ class LinkedList:
             cur_node = next_node
 
         self.head = pre_node
+
+a = [1, 2, 3, 4, 5]
+
+b = [6, 7, 8, 9, 5 , 4]
+
+print(a + b)
