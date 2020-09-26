@@ -52,8 +52,6 @@ for i in names_2:
         duplicates.append(i)
 
 
-
-
 # names_1count = Counter(names_1)
 # names_1_single = []
 # for x, y in names_1count.items():
@@ -71,12 +69,6 @@ for i in names_2:
 # for x, y in database.items():
 #     if y > 1:
 #         duplicates.append(x)
-
-
-
-
-
-
 
 
 # Replace the nested for loops below with your improvements
